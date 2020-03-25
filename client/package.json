@@ -1,0 +1,47 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.0.3",
+    "axios": "^0.19.2",
+    "babel-plugin-import": "^1.13.0",
+    "bootstrap": "^4.4.1",
+    "customize-cra": "^0.9.1",
+    "d3": "^3.5.17",
+    "function-plot": "^1.19.1",
+    "mathjs": "^6.6.1",
+    "react": "^16.13.1",
+    "react-app-rewired": "^2.1.5",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-table": "^7.0.0",
+    "recharts": "^1.8.5",
+    "styled-components": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
