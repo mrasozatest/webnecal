@@ -13,7 +13,7 @@
     "customize-cra": "^0.9.1",
     "d3": "^3.5.17",
     "function-plot": "^1.19.1",
-    "mathjs": "^6.6.1",
+    "mathjs": "^7.5.1",
     "react": "^16.13.1",
     "react-app-rewired": "^2.1.5",
     "react-dom": "^16.13.1",
